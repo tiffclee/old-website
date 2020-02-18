@@ -17,9 +17,21 @@ h3 {
 	font-size: 40px;
 }
 
+h4 {
+  margin: auto 80px;
+  text-align: left;
+  font-size: 20px;
+}
+
+.text {
+  margin: auto 150px;
+  text-align: left;
+  font-size: 15px;
+}
+
 /* Style the tab */
 .tab {
-  width: 840px;
+  width: 960px;
   overflow: hidden;
   background-color: #EFF1ED;
   color: #EFF1ED;
